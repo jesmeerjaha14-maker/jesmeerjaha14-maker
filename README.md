@@ -1,4 +1,4 @@
-## Hi there 
+## Hi THERE!!
 <h1 align="center">Hi, I'm Jesmeer Jaha</h1>
 
 <h3 align="center">
@@ -36,30 +36,7 @@ Computer Science Engineering Student • Java Learner • Aspiring Software Deve
 - ✅ Git & GitHub
 - 🔜 Data Structures & Algorithms
 - 🔜 Web Development Projects
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-![Jesmeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesmeerjaha14-maker&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesmeerjaha14-maker&layout=compact&theme=tokyonight&cache_seconds=1800)
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jesmeerjaha14-maker&theme=tokyonight)
-
-</p>
-
----
-
+  
 ## 🎯 Goals for 2026
 
 - Build 25+ Java programs
