@@ -1,16 +1,83 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jesmeer Jaha</h1>
 
-<!--
-**jesmeerjaha14-maker/jesmeerjaha14-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Computer Science Engineering Student • Java Learner • Aspiring Software Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Learning+Java+Every+Day;Building+Projects+Step+by+Step;Future+Software+Engineer" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science Engineering Student
+- ☕ Currently learning **Java**
+- 🌱 Exploring **Data Structures & Algorithms**
+- 🌐 Learning **HTML, CSS and JavaScript**
+- 🚀 Building projects to improve my development skills
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 📌 Currently Working On
+
+- ✅ Java Programming
+- ✅ Java Mini Projects
+- ✅ Git & GitHub
+- 🔜 Data Structures & Algorithms
+- 🔜 Web Development Projects
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jesmeerjaha14-maker&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesmeerjaha14-maker&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=jesmeerjaha14-maker&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🎯 Goals for 2026
+
+- Build 25+ Java programs
+- Create Java mini projects
+- Learn DSA using Java
+- Build responsive websites
+- Grow my GitHub portfolio
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/jesmeerjaha14-maker
+- LinkedIn: *Updating Soon*
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
