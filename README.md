@@ -1,5 +1,5 @@
 ## Hi there 
-<h1 align="center">Hi 👋, I'm Jesmeer Jaha</h1>
+<h1 align="center">Hi, I'm Jesmeer Jaha</h1>
 
 <h3 align="center">
 Computer Science Engineering Student • Java Learner • Aspiring Software Developer
